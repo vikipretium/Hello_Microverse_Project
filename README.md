@@ -2,15 +2,14 @@
 
 # Hello Microverse Project
 
-> One paragraph statement about the project.
+> Project I did to learn about linters and setup README file for any project in github.
 
 ![screenshot](./app_screenshot.png)
 
-Additional description about the project and its features.
-
 ## Built With
 
-- HTML CSS
+- HTML
+- CSS
 
 ## Live Demo
 
@@ -20,7 +19,7 @@ Additional description about the project and its features.
 
 ## Authors
 
-👤 **Author1**
+👤 **Vignesh**
 
 - GitHub: [@vikipretium](https://github.com/vikipretium)
 - Twitter: [@vikipretium](https://twitter.com/vikipretium)
